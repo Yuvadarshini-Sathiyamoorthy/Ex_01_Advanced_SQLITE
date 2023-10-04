@@ -308,4 +308,5 @@ public class DatabaseHelper extends SQLiteOpenHelper{
 
 
 # OUTPUT:
-![OUTPUT](exp_1.jpg)
+![exp_1](https://github.com/Yuvadarshini-Sathiyamoorthy/Ex_01_Advanced_SQLITE/assets/93482485/261c015c-aff2-474e-8468-e4220ee36068)
+
